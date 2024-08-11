@@ -67,11 +67,11 @@
         align-items: center;
     }
     .contenTop{
-        width: 90%;
+        width: 96%;
     }
     
     .contentBotom{
-        width: 90%;
+        width: 96%;
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
