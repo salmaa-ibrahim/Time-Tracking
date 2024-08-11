@@ -22,7 +22,7 @@ function RightSide() {
             Date: "Last Week - 3hrs",
             id: 1,
             Color:"hsl(15, 100%, 70%)",
-            Img:"../src/assets/images/icon-work.svg"
+            Img:"/image/icon-work.svg"
         },
         {
             Deuration: "Play",
@@ -30,7 +30,7 @@ function RightSide() {
             Date: "Last Week - 3hrs",
             id: 2,
             Color:"hsl(195, 74%, 62%)",
-            Img:"../src/assets/images/icon-play.svg"
+            Img:"/image/icon-play.svg"
         },
         {
             Deuration: "Study",
@@ -38,7 +38,7 @@ function RightSide() {
             Date: "Last Week - 7hrs",
             id: 3,
             Color:"hsl(348, 100%, 68%)",
-            Img:"../src/assets/images/icon-study.svg"
+            Img:"/image/icon-study.svg"
 
         },{
             Deuration: "Exercise",
@@ -46,7 +46,7 @@ function RightSide() {
             Date: "Last Week - 5hrs",
             id:4,
             Color:"hsl(145, 58%, 55%)",
-            Img:"../src/assets/images/icon-exercise.svg"
+            Img:"/image/icon-exercise.svg"
         },
         {
             Deuration: "Social",
@@ -54,7 +54,7 @@ function RightSide() {
             Date: "Last Week - 10hrs",
             id: 5,
             Color:"hsl(264, 64%, 52%)",
-            Img:"../src/assets/images/icon-social.svg"
+            Img:"/image/icon-social.svg"
         },
         {
             Deuration: "Self Care",
@@ -62,7 +62,7 @@ function RightSide() {
             Date: "Last Week - 2hrs",
             id: 6,
             Color:"hsl(43, 84%, 65%)",
-            Img:"../src/assets/images/icon-self-care.svg"
+            Img:"/image/icon-self-care.svg"
         }
     ]
     return (
