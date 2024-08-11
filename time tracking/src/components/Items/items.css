@@ -73,6 +73,7 @@
 @media only screen and (max-width:768px) {
     .content{
         align-items: center;
+        height: 76%;
     }
     .contenTop{
         width: 96%;
